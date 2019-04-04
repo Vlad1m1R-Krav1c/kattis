@@ -1,5 +1,5 @@
 
-Battleship
+Battleship - https://open.kattis.com/problems/battleship
 
 When playing battleship, players take turns trying to sink the other players navy. Each player may take shots at one coordinate at once. If he hits one of his enemy’s ships and the enemy has any other ships left, he may continue. Else, the other player may take shots. After hitting a ship at one coordinate, shooting at that coordinate again counts as a miss.
 
